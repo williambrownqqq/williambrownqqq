@@ -1,4 +1,8 @@
-### Hi there 👋
+
+# williambrown
+what's up, buddy
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williambrownqqq&theme=nightowl&show_icons=true)
 
 <!--
 **williambrownqqq/williambrownqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
